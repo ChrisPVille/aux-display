@@ -9,4 +9,6 @@ I picked up a few of the Taiwanese made HSD088IPW1 displays and thought they'd m
 - Conky doesn't do columns particularly well, so my solution was to run 4 instances
 - The monitor mount is just simple thing held in place via friction from some foam strips. It actually is quite secure given the tolerances. You'll certainly want to adjust the model, which is not parametric.
 
+The conky configs are named by their relative position left to right on the display (i.e. conkyl.conf, conkylm.conf, conkyrm.conf, conkyr.conf)
+
 ![Conky instances running](example.png)
